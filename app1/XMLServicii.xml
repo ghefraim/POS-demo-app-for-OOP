@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<servicii>
+  <Serviciu>
+    <Nume>Hosting</Nume>
+    <CodIntern>1235</CodIntern>
+    <Pret>2000</Pret>
+    <Categorie>Networking</Categorie>
+  </Serviciu>
+  <Serviciu>
+    <Nume>Creare Website Personal</Nume>
+    <CodIntern>1915</CodIntern>
+    <Pret>1500</Pret>
+    <Categorie>Tehnologia Informatiei</Categorie>
+  </Serviciu>
+  <Serviciu>
+    <Nume>Curs Programare C++</Nume>
+    <CodIntern>1440</CodIntern>
+    <Pret>500</Pret>
+    <Categorie>Tehnologia Informatiei</Categorie>
+  </Serviciu>
+</servicii>

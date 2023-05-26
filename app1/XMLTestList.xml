@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfProdusAbstract xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProdusAbstract xsi:type="Serviciu">
+    <Id>1</Id>
+    <Nume>asd</Nume>
+    <CodIntern>asd</CodIntern>
+    <Pret>123</Pret>
+    <Categorie>asd</Categorie>
+  </ProdusAbstract>
+  <ProdusAbstract xsi:type="Produs">
+    <Id>2</Id>
+    <Nume>qwe</Nume>
+    <CodIntern>qwe</CodIntern>
+    <Pret>123</Pret>
+    <Categorie>qwe</Categorie>
+    <Producator>qwe</Producator>
+  </ProdusAbstract>
+  <ProdusAbstract xsi:type="Produs">
+    <Id>3</Id>
+    <Nume>Calculator</Nume>
+    <CodIntern>157235</CodIntern>
+    <Pret>2200</Pret>
+    <Categorie>Tehnologia Informatiei</Categorie>
+    <Producator>USA</Producator>
+  </ProdusAbstract>
+  <ProdusAbstract xsi:type="Produs">
+    <Id>4</Id>
+    <Nume>Monitor</Nume>
+    <CodIntern>112235</CodIntern>
+    <Pret>1200</Pret>
+    <Categorie>Tehnologia Informatiei</Categorie>
+    <Producator>China</Producator>
+  </ProdusAbstract>
+  <ProdusAbstract xsi:type="Produs">
+    <Id>5</Id>
+    <Nume>Tastatura</Nume>
+    <CodIntern>144320</CodIntern>
+    <Pret>150</Pret>
+    <Categorie>Tehnologia Informatiei</Categorie>
+    <Producator>China</Producator>
+  </ProdusAbstract>
+</ArrayOfProdusAbstract>

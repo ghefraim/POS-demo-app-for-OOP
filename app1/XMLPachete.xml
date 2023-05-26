@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<pachete>
+  <Pachet>
+    <Nume>Nume pachet</Nume>
+    <CodIntern>100</CodIntern>
+    <Categorie>Calculatoare</Categorie>
+    <ElementePachet>
+      <Produs>
+        <Nume>Laptop</Nume>
+        <CodIntern>157235</CodIntern>
+        <Producator>USA</Producator>
+        <Pret>2200</Pret>
+        <Categorie>Calculatoare</Categorie>
+      </Produs>
+      <Produs>
+        <Nume>Laptop</Nume>
+        <CodIntern>157235</CodIntern>
+        <Producator>USA</Producator>
+        <Pret>2200</Pret>
+        <Categorie>Calculatoare</Categorie>
+      </Produs>
+      <Serviciu>
+        <Nume>Hosting</Nume>
+        <CodIntern>1235</CodIntern>
+        <Pret>2000</Pret>
+        <Categorie>Networking</Categorie>
+      </Serviciu>
+      <Produs>
+        <Nume>Monitor</Nume>
+        <CodIntern>112235</CodIntern>
+        <Producator>China</Producator>
+        <Pret>1200</Pret>
+        <Categorie>Calculatoare</Categorie>
+      </Produs>
+    </ElementePachet>
+  </Pachet>
+
+  <Pachet>
+    <Nume>Nume pachet</Nume>
+    <CodIntern>100</CodIntern>
+    <Categorie>Calculatoare</Categorie>
+    <ElementePachet>
+      <Produs>
+        <Nume>Laptop</Nume>
+        <CodIntern>157235</CodIntern>
+        <Producator>USA</Producator>
+        <Pret>4000</Pret>
+        <Categorie>Calculatoare</Categorie>
+      </Produs>
+      <Produs>
+        <Nume>Laptop</Nume>
+        <CodIntern>157235</CodIntern>
+        <Producator>USA</Producator>
+        <Pret>2200</Pret>
+        <Categorie>Calculatoare</Categorie>
+      </Produs>
+      <Serviciu>
+        <Nume>Hosting</Nume>
+        <CodIntern>1235</CodIntern>
+        <Pret>2000</Pret>
+        <Categorie>Networking</Categorie>
+      </Serviciu>
+      <Produs>
+        <Nume>Monitor</Nume>
+        <CodIntern>112235</CodIntern>
+        <Producator>China</Producator>
+        <Pret>1200</Pret>
+        <Categorie>Calculatoare</Categorie>
+      </Produs>
+    </ElementePachet>
+  </Pachet>
+</pachete>
